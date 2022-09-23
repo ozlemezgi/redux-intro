@@ -3,3 +3,4 @@ export const DECREASE_COUNTER="DECREASE_COUNTER"
 export const INCREASE_BY_TWO_COUNTER="INCREASE_BY_TWO_COUNTER"
 
 //componentimizden çağırdığımız aksiyon..
+//bunları event gibi düşünebiliriz onclick gibi..
